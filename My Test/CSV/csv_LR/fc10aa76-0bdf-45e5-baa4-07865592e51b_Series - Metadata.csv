@@ -1,0 +1,58 @@
+Country Name,Country Code,Time,Time Code,GDP per capita (current US$) [NY.GDP.PCAP.CD]
+Singapore,SGP,1973,YR1973,1685.45979632163
+Singapore,SGP,1974,YR1974,2341.70551423633
+Singapore,SGP,1975,YR1975,2489.91157517591
+Singapore,SGP,1976,YR1976,2758.94038028476
+Singapore,SGP,1977,YR1977,2846.33598832854
+Singapore,SGP,1978,YR1978,3193.90565722355
+Singapore,SGP,1979,YR1979,3900.53355310873
+Singapore,SGP,1980,YR1980,4928.13911785754
+Singapore,SGP,1981,YR1981,5596.58597723068
+Singapore,SGP,1982,YR1982,6077.63424070932
+Singapore,SGP,1983,YR1983,6633.23667366491
+Singapore,SGP,1984,YR1984,7228.31758410647
+Singapore,SGP,1985,YR1985,7001.7667477117
+Singapore,SGP,1986,YR1986,6799.93036332671
+Singapore,SGP,1987,YR1987,7539.02930212443
+Singapore,SGP,1988,YR1988,8914.44122574729
+Singapore,SGP,1989,YR1989,10394.5389962406
+Singapore,SGP,1990,YR1990,11861.7561591366
+Singapore,SGP,1991,YR1991,14502.3799938606
+Singapore,SGP,1992,YR1992,16136.243839704
+Singapore,SGP,1993,YR1993,18290.1319997876
+Singapore,SGP,1994,YR1994,21552.4076850092
+Singapore,SGP,1995,YR1995,24914.8507020358
+Singapore,SGP,1996,YR1996,26232.8691975489
+Singapore,SGP,1997,YR1997,26375.8683274527
+Singapore,SGP,1998,YR1998,21829.278130922
+Singapore,SGP,1999,YR1999,21796.6416756673
+Singapore,SGP,2000,YR2000,23852.8343394594
+Singapore,SGP,2001,YR2001,21699.7475424438
+Singapore,SGP,2002,YR2002,22159.8332458207
+Singapore,SGP,2003,YR2003,23730.3794651032
+Singapore,SGP,2004,YR2004,27608.074568778
+Singapore,SGP,2005,YR2005,29961.3082806236
+Singapore,SGP,2006,YR2006,33768.4457393726
+Singapore,SGP,2007,YR2007,39432.8947414593
+Singapore,SGP,2008,YR2008,40008.5767618076
+Singapore,SGP,2009,YR2009,38926.8131057113
+Singapore,SGP,2010,YR2010,47236.6715371242
+Singapore,SGP,2011,YR2011,53891.4622883041
+Singapore,SGP,2012,YR2012,55547.5462532391
+Singapore,SGP,2013,YR2013,56967.4257940383
+Singapore,SGP,2014,YR2014,57564.8023114977
+Singapore,SGP,2015,YR2015,55645.6068614606
+Singapore,SGP,2016,YR2016,56895.6433372978
+Singapore,SGP,2017,YR2017,61164.8973569773
+Singapore,SGP,2018,YR2018,66836.5385122528
+Singapore,SGP,2019,YR2019,66070.4706679227
+Singapore,SGP,2020,YR2020,61274.0064626976
+Singapore,SGP,2021,YR2021,77710.0699565617
+Singapore,SGP,2022,YR2022,82807.6490834764
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 10/26/2023,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity,Aggregation method,Statistical concept and methodology,License URL
+NY.GDP.PCAP.CD,CC BY-4.0,GDP per capita (current US$),GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars.,"World Bank national accounts data, and OECD National Accounts data files.",Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,Annual,Weighted average,"For more information, see the metadata for current U.S. dollar GDP (NY.GDP.MKTP.CD) and total population (SP.POP.TOTL).",https://datacatalog.worldbank.org/public-licenses#cc-by
