@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Lifecycle](#features)
+- [Lifecycle](#lifecycle)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Credits](#credits)
