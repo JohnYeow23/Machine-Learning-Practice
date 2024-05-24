@@ -6,12 +6,10 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- [Lifecycle](#features)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -58,6 +56,6 @@ Fit time: 1.094 / Predict time: 0.082 ---- Precision: 1.0 / Recall: 0.813 / Accu
 
 Reflecting on this NLP project, main purpose is to understood the processes and reasons behind data transformations and model selection. One area of potential improvement is feature scaling, especially for the punctuation percentage feature, which displayed a significant left-skew; a Box-Cox transformation might have helped to normalize it.
 
-## License
+## Credits
 
 Credits to Derek Jedamski for the insightful walkthrough tutorial which can be found on LinkedIn learn.
